@@ -1,0 +1,61 @@
+[BIND1]
+Accion= 1
+hlist= 0
+invslot= 0
+SndString=MOD STYLO EXP 999999999999999999999999999999
+
+[BIND2]
+Accion= 1
+hlist= 0
+invslot= 0
+SndString=MOD YO BODY 308
+
+[BIND3]
+Accion= 1
+hlist= 0
+invslot= 0
+SndString=MOD YO BODY 409
+
+[BIND4]
+Accion= 1
+hlist= 0
+invslot= 0
+SndString=TELEP YO 247 51 72
+
+[BIND5]
+Accion= 1
+hlist= 0
+invslot= 0
+SndString=TELEPLOC
+
+[BIND6]
+Accion= 4
+hlist= 0
+invslot= 6
+
+[BIND7]
+Accion= 1
+hlist= 0
+invslot= 0
+SndString=TELEP YO 750 50 50
+
+[BIND8]
+Accion= 2
+hlist= 9
+invslot= 0
+
+[BIND9]
+Accion= 4
+hlist= 0
+invslot= 9
+
+[BIND10]
+Accion= 1
+hlist= 0
+invslot= 0
+SndString=TELEP YO 34 41 87
+
+[BIND11]
+Accion= 2
+hlist= 2
+invslot= 0
