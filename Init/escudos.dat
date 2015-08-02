@@ -1,0 +1,191 @@
+[INIT]
+
+NumEscudos=32
+
+[ESC1]
+Dir1=4727 'norte
+Dir2=4729
+Dir3=4726
+Dir4=4728 'sur
+
+'NO USAR el escudo 2. Al parecer es lo que te aparece cuando no tenés ningún escudo equipado
+
+[ESC3]'Escudo Rojo
+Dir1=14243 'norte
+Dir2=14245
+Dir3=14242
+Dir4=14244 'sur
+
+[ESC4]'Escudo Hierro Groso
+Dir1=14269 'norte
+Dir2=14271
+Dir3=14268
+Dir4=14270 'sur
+
+[ESC5]'Escudo imper Groso
+Dir1=14295 'norte
+Dir2=14297
+Dir3=14294
+Dir4=14296 'sur
+
+[ESC6]'Escudo de tortuga
+Dir3=15088
+Dir1=15089
+Dir4=15090
+Dir2=15091
+
+[ESC7]'Escudo gris
+Dir3=15330
+Dir1=15331
+Dir4=15332
+Dir2=15333
+
+[ESC8]'Escudo verde y rojo
+Dir3=15434
+Dir1=15435
+Dir4=15436
+Dir2=15437
+
+[ESC9]'Escudo oscuro con cruz
+Dir3=16423
+Dir1=16424
+Dir4=16425
+Dir2=16426
+
+[ESC10]'Escudo con borde dorado
+Dir3=16453
+Dir1=16454
+Dir4=16455
+Dir2=16456
+
+[ESC11]'Escudo blanco y azul
+Dir3=16483
+Dir1=16484
+Dir4=16485
+Dir2=16486
+
+[ESC12]'Escudo amarillo y plateado
+Dir3=16523
+Dir1=16524
+Dir4=16525
+Dir2=16526
+
+[ESC13]'Escudo con adornito verde
+Dir3=16553
+Dir1=16554
+Dir4=16555
+Dir2=16556
+
+[ESC14]'Escudo violeta con punto rojo
+Dir3=16583
+Dir1=16584
+Dir4=16585
+Dir2=16586
+
+[ESC15]'Escudo con gema roja
+Dir3=15114
+Dir1=15115
+Dir4=15116
+Dir2=15117
+
+[ESC16] 'Escudo de madera II
+Dir3=18023
+Dir1=18024
+Dir4=18025
+Dir2=18026
+
+[ESC17] 'Escudo rojo con insignia de ave
+Dir3=18053
+Dir1=18054
+Dir4=18055
+Dir2=18056
+
+[ESC18] 'Escudo dorado con símbolo
+Dir3=18083
+Dir1=18084
+Dir4=18085
+Dir2=18086
+
+[ESC19] 'Escudo blanco con cruz roja
+Dir3=18113
+Dir1=18114
+Dir4=18115
+Dir2=18116
+
+[ESC20] 'Escudo circular verde y amarillo
+Dir3=18143
+Dir1=18144
+Dir4=18145
+Dir2=18146
+
+[ESC21] 'Escudo imperial dorado
+Dir3=18323
+Dir1=18324
+Dir4=18325
+Dir2=18326
+
+[ESC22] 'Escudo amarillo y rojo
+Dir3=5228
+Dir1=5229
+Dir4=5230
+Dir2=5231
+
+[ESC23] 'Escudo blanco con cruz roja
+Dir3=5254
+Dir1=5255
+Dir4=5256
+Dir2=5257
+
+[ESC24] 'Escudo blanco
+Dir3=5280
+Dir1=5281
+Dir4=5282
+Dir2=5283
+
+[ESC25] 'Escudo marrón
+Dir3=5306
+Dir1=5307
+Dir4=5308
+Dir2=5309
+
+[ESC26] 'Escudo azul
+Dir3=5332
+Dir1=5333
+Dir4=5334
+Dir2=5335
+
+[ESC27] 'Escudo Rm2
+Dir3=6903
+Dir1=6904
+Dir4=6905
+Dir2=6906
+
+[ESC28] 'Escudo rm3
+Dir3=6929
+Dir1=6930
+Dir4=6931
+Dir2=6932
+
+[ESC29] 'Escudo de torre
+Dir3=6955
+Dir1=6956
+Dir4=6957
+Dir2=6958
+
+[ESC30]'Escudo con gema roja
+Dir3=29549
+Dir1=29550
+Dir4=29551
+Dir2=29552
+
+[ESC31]'Escudo arcano nuevo
+Dir3=31526
+Dir1=31527
+Dir4=31528
+Dir2=31529
+
+[ESC32]'Escudo reflexión rm+8
+Dir3=5824
+Dir1=5825
+Dir4=5826
+Dir2=5827

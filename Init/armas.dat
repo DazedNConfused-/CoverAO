@@ -1,0 +1,216 @@
+[INIT]
+NumArmas=32
+
+[Arma1]
+Dir1=4719 'norte
+Dir2=4721
+Dir3=4718
+Dir4=4720 'sur
+
+[Arma3]
+Dir1=4723 'norte
+Dir2=4725
+Dir3=4722
+Dir4=4724 'sur
+
+'Garrote
+[ARMA4]
+Dir1=10269
+Dir2=10271
+Dir3=10268
+Dir4=10270
+
+'Cimitarra
+[ARMA5]
+Dir1=10295
+Dir2=10297
+Dir3=10294
+Dir4=10296
+
+'Vara de mago
+[ARMA6]
+Dir1=10321
+Dir2=10323
+Dir3=10320
+Dir4=10322
+
+'Arco
+[ARMA7]
+Dir1=10467
+Dir2=10469
+Dir3=10466
+Dir4=10468
+
+'Daga
+[ARMA8]
+Dir1=14321
+Dir2=14323
+Dir3=14320
+DIr4=14322
+
+'Lanza Mata dracos
+[ARMA9]
+Dir1=14529
+Dir2=14531
+Dir3=14528
+DIr4=14530
+
+'Dos Filos
+[ARMA10]
+Dir1=14347
+Dir2=14349
+Dir3=14346
+DIr4=14348
+
+'Espada Argentum
+[Arma11]
+Dir3=15356
+Dir1=15357
+Dir4=15358
+Dir2=15359
+
+'Lanza NO MODIFICAR DIRs
+[Arma12]
+Dir1=16724
+Dir3=16725
+Dir4=16726
+Dir2=16727
+
+'Bola de metal
+[Arma13]
+Dir3=18256
+Dir1=18257
+Dir4=18258
+Dir2=18259
+
+'Lanza madera
+[Arma14]
+Dir3=19106
+Dir1=19107
+Dir4=19108
+Dir2=19109
+
+'Lanza madera blanca
+[Arma15]
+Dir3=19136
+Dir1=19137
+Dir4=19138
+Dir2=19139
+
+'Bastón de mago
+[Arma16]
+Dir3=19166
+Dir1=19167
+Dir4=19168
+Dir2=19169
+
+'Vara fuego
+[Arma17]
+Dir3=19196
+Dir1=19197
+Dir4=19198
+Dir2=19199
+
+'Vara luz
+[Arma18]
+Dir3=19226
+Dir1=19227
+Dir4=19228
+Dir2=19229
+
+'Espada de plata +2
+[Arma19]
+Dir3=5628
+Dir1=5629
+Dir4=5630
+Dir2=5631
+
+'Horquilla
+[Arma20]
+Dir3=26807
+Dir1=26808
+Dir4=26809
+Dir2=26810
+
+
+'espada longobolger
+[Arma21]
+Dir3=31641
+Dir1=31642
+Dir4=31643
+Dir2=31644
+
+'Espada Polobolger
+[Arma22]
+Dir3=31668
+Dir1=31669
+Dir4=31670
+Dir2=31671
+Dir2=31672
+
+'*********************Vamos con los objetos con auras*****************************************
+
+'Bastón de mago
+[Arma23]
+Dir3=19166
+Dir1=19167
+Dir4=19168
+Dir2=19169
+
+'Vara fuego
+[Arma24]
+Dir3=19196
+Dir1=19197
+Dir4=19198
+Dir2=19199
+
+'Daga
+[ARMA25]
+Dir1=14321
+Dir2=14323
+Dir3=14320
+DIr4=14322
+
+[ARMA26]
+Dir1=10295
+Dir2=10297
+Dir3=10294
+Dir4=10296
+
+[Arma27]
+Dir1=4719 'norte
+Dir2=4721
+Dir3=4718
+Dir4=4720 'sur
+
+'Espada Argentum
+[Arma28]
+Dir3=15356
+Dir1=15357
+Dir4=15358
+Dir2=15359
+
+[ARMA29]
+Dir1=10321
+Dir2=10323
+Dir3=10320
+Dir4=10322
+
+[ARMA30]
+Dir1=0
+Dir2=0
+Dir3=0
+Dir4=0
+
+[ARMA31]
+Dir1=10295
+Dir2=10297
+Dir3=10294
+Dir4=10296
+
+[Arma32]
+Dir1=4719 'norte
+Dir2=4721
+Dir3=4718
+Dir4=4720 'sur
+******************************Fin Objetos con Auras*********************

@@ -1,0 +1,59 @@
+Línea 37: la clase SocketWrenchCtrl.Socket del control Socket1 no era una clase de control cargada.
+Línea 69: la clase RichTextLib.RichTextBox del control RecCombat no era una clase de control cargada.
+Línea 99: la clase RichTextLib.RichTextBox del control RecGlobal no era una clase de control cargada.
+Línea 354: la clase RichTextLib.RichTextBox del control RecChat no era una clase de control cargada.
+Línea 395: la clase Captura.wndCaptura del control Captura1 no era una clase de control cargada.
+Línea 40: el nombre de la propiedad _Version de Socket1 no es válido.
+Línea 41: el nombre de la propiedad _ExtentX de Socket1 no es válido.
+Línea 42: el nombre de la propiedad _ExtentY de Socket1 no es válido.
+Línea 43: el nombre de la propiedad _StockProps de Socket1 no es válido.
+Línea 44: el nombre de la propiedad AutoResolve de Socket1 no es válido.
+Línea 45: el nombre de la propiedad Backlog de Socket1 no es válido.
+Línea 46: el nombre de la propiedad Binary de Socket1 no es válido.
+Línea 47: el nombre de la propiedad Blocking de Socket1 no es válido.
+Línea 48: el nombre de la propiedad Broadcast de Socket1 no es válido.
+Línea 49: el nombre de la propiedad BufferSize de Socket1 no es válido.
+Línea 50: el nombre de la propiedad HostAddress de Socket1 no es válido.
+Línea 51: el nombre de la propiedad HostFile de Socket1 no es válido.
+Línea 52: el nombre de la propiedad HostName de Socket1 no es válido.
+Línea 53: el nombre de la propiedad InLine de Socket1 no es válido.
+Línea 54: el nombre de la propiedad Interval de Socket1 no es válido.
+Línea 55: el nombre de la propiedad KeepAlive de Socket1 no es válido.
+Línea 56: el nombre de la propiedad Library de Socket1 no es válido.
+Línea 57: el nombre de la propiedad Linger de Socket1 no es válido.
+Línea 58: el nombre de la propiedad LocalPort de Socket1 no es válido.
+Línea 59: el nombre de la propiedad LocalService de Socket1 no es válido.
+Línea 60: el nombre de la propiedad Protocol de Socket1 no es válido.
+Línea 61: el nombre de la propiedad RemotePort de Socket1 no es válido.
+Línea 62: el nombre de la propiedad RemoteService de Socket1 no es válido.
+Línea 63: el nombre de la propiedad ReuseAddress de Socket1 no es válido.
+Línea 64: el nombre de la propiedad Route de Socket1 no es válido.
+Línea 65: el nombre de la propiedad Timeout de Socket1 no es válido.
+Línea 66: el nombre de la propiedad Type de Socket1 no es válido.
+Línea 67: el nombre de la propiedad Urgent de Socket1 no es válido.
+Línea 78: el nombre de la propiedad _ExtentX de RecCombat no es válido.
+Línea 79: el nombre de la propiedad _ExtentY de RecCombat no es válido.
+Línea 80: el nombre de la propiedad _Version de RecCombat no es válido.
+Línea 83: el nombre de la propiedad ReadOnly de RecCombat no es válido.
+Línea 84: el nombre de la propiedad ScrollBars de RecCombat no es válido.
+Línea 85: el nombre de la propiedad DisableNoScroll de RecCombat no es válido.
+Línea 87: el nombre de la propiedad AutoVerbMenu de RecCombat no es válido.
+Línea 88: el nombre de la propiedad TextRTF de RecCombat no es válido.
+Línea 108: el nombre de la propiedad _ExtentX de RecGlobal no es válido.
+Línea 109: el nombre de la propiedad _ExtentY de RecGlobal no es válido.
+Línea 110: el nombre de la propiedad _Version de RecGlobal no es válido.
+Línea 113: el nombre de la propiedad ReadOnly de RecGlobal no es válido.
+Línea 114: el nombre de la propiedad ScrollBars de RecGlobal no es válido.
+Línea 115: el nombre de la propiedad DisableNoScroll de RecGlobal no es válido.
+Línea 117: el nombre de la propiedad AutoVerbMenu de RecGlobal no es válido.
+Línea 118: el nombre de la propiedad TextRTF de RecGlobal no es válido.
+Línea 362: el nombre de la propiedad _ExtentX de RecChat no es válido.
+Línea 363: el nombre de la propiedad _ExtentY de RecChat no es válido.
+Línea 364: el nombre de la propiedad _Version de RecChat no es válido.
+Línea 367: el nombre de la propiedad ReadOnly de RecChat no es válido.
+Línea 368: el nombre de la propiedad ScrollBars de RecChat no es válido.
+Línea 369: el nombre de la propiedad DisableNoScroll de RecChat no es válido.
+Línea 371: el nombre de la propiedad AutoVerbMenu de RecChat no es válido.
+Línea 372: el nombre de la propiedad TextRTF de RecChat no es válido.
+Línea 398: el nombre de la propiedad _ExtentX de Captura1 no es válido.
+Línea 399: el nombre de la propiedad _ExtentY de Captura1 no es válido.

@@ -1,0 +1,26 @@
+Acá se guardan los datos que se cargan al iniciar el juego. Si no sabés que es no lo modifiques desde acá.
+
+[GRAPHICS]
+NumGraphics=12
+TotalPreloads=111
+1=20-20-1-Agua
+2=10090-10099-2-Particulas
+3=102-102-1-Animacion de login
+4=10150-10151-1-Pisos
+5=6000-6010-1-Terrenos de bosque y desierto
+6=19050-19051-1-Fuentes (letras)
+7=1530-1533-1-Terreno de dungeon
+8=7500-7528-2-Terrenos varios
+9=5500-5505-2-Casas madera
+10=15038-15049-2-Puertas dobles
+11=15057-15060-1-Antorchas
+12=932-971-4-Arboles
+
+[SOUNDS]
+NumSounds=5
+TotalPreloads=14
+1=69-78-4-Ambientes varios
+2=191-191-4-Lluvia
+3=194-194-4-Viento
+4=141-141-4-Noche ciudad
+5=107-107-4-Noche exterior

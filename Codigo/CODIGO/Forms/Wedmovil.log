@@ -1,0 +1,19 @@
+Línea 17: la clase SHDocVwCtl.WebBrowser del control WebBrowser2 no era una clase de control cargada.
+Línea 23: el nombre de la propiedad ExtentX de WebBrowser2 no es válido.
+Línea 24: el nombre de la propiedad ExtentY de WebBrowser2 no es válido.
+Línea 25: el nombre de la propiedad ViewMode de WebBrowser2 no es válido.
+Línea 26: el nombre de la propiedad Offline de WebBrowser2 no es válido.
+Línea 27: el nombre de la propiedad Silent de WebBrowser2 no es válido.
+Línea 28: el nombre de la propiedad RegisterAsBrowser de WebBrowser2 no es válido.
+Línea 29: el nombre de la propiedad RegisterAsDropTarget de WebBrowser2 no es válido.
+Línea 30: el nombre de la propiedad AutoArrange de WebBrowser2 no es válido.
+Línea 31: el nombre de la propiedad NoClientEdge de WebBrowser2 no es válido.
+Línea 32: el nombre de la propiedad AlignLeft de WebBrowser2 no es válido.
+Línea 33: el nombre de la propiedad NoWebView de WebBrowser2 no es válido.
+Línea 34: el nombre de la propiedad HideFileNames de WebBrowser2 no es válido.
+Línea 35: el nombre de la propiedad SingleClick de WebBrowser2 no es válido.
+Línea 36: el nombre de la propiedad SingleSelection de WebBrowser2 no es válido.
+Línea 37: el nombre de la propiedad NoFolders de WebBrowser2 no es válido.
+Línea 38: el nombre de la propiedad Transparent de WebBrowser2 no es válido.
+Línea 39: el nombre de la propiedad ViewID de WebBrowser2 no es válido.
+Línea 40: el nombre de la propiedad Location de WebBrowser2 no es válido.
