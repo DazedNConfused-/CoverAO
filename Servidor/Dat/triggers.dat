@@ -1,0 +1,26 @@
+[INIT]
+NumTriggers=7
+
+[Trig1]
+Name=Nada
+
+[Trig2]
+Name=Bajo techo
+
+[Trig3]
+Name=Trigger inútil
+
+[Trig4]
+Name=Posición inválida para NPCs
+
+[Trig5]
+Name=Bajo techo y no combate
+
+[Trig6]
+Name=Anti piquete
+
+[Trig7]
+Name=Combate libre
+
+
+

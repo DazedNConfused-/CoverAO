@@ -1,0 +1,51 @@
+'#################### LISTA DE SPAWN #############################
+[INIT]
+NumNPCs=11
+
+
+[LIST]
+NI1=553
+NN1=Medusa CoverAO
+
+NI2=578
+NN2=Medusa Matriziat CoverAO
+
+NI3=576
+NN3=Momia CoverAO
+
+NI4=575
+NN4=Golem De Oro CoverAO
+
+NI5=579
+NN5=Golem De Plata CoverAO
+
+NI6=581
+NN6=Golem Infernal CoverAO
+
+NI7=587
+NN7=Golem De Hielo CoverAO
+
+NI8=582
+NN8=Gran Dragon Azul CoverAO
+
+NI9=570
+NN9=Gran Dragon Verde CoverAO
+
+NI10=542
+NN10=Gran Dragon Negro CoverAO
+
+NI11=590
+NN11=Rey Dragon CoverAO
+
+
+
+
+
+
+
+
+
+
+
+
+
